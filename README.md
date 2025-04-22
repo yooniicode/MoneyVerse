@@ -1,5 +1,5 @@
 # MoneyVerse
-👉 2025-1 소프트웨어융합창의설계 기록용 레포지토리
+- 청소년을 위한 쉬운 경제 교육 시뮬레이션 MoneyVerse
 
 ![Image](https://github.com/user-attachments/assets/36992c6a-4b10-44b6-abd5-a56cdf6ec17d)
 ![Image](https://github.com/user-attachments/assets/927e7b06-d40d-4370-aa92-573c35f4ac57)
