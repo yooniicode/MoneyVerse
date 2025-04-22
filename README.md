@@ -1,6 +1,3 @@
-# MoneyVerse
-- 청소년을 위한 쉬운 경제 교육 시뮬레이션 MoneyVerse
-
 ![Image](https://github.com/user-attachments/assets/36992c6a-4b10-44b6-abd5-a56cdf6ec17d)
 ![Image](https://github.com/user-attachments/assets/927e7b06-d40d-4370-aa92-573c35f4ac57)
 ![Image](https://github.com/user-attachments/assets/7d6653ce-1bac-406d-831b-ed053bc411ce)
